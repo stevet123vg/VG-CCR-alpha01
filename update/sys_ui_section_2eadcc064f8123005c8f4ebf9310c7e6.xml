@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="VG: Change Control - INITIATE" section_id="2eadcc064f8123005c8f4ebf9310c7e6" sys_domain="global" table="x_224032_vg_ccr_al_vg_ccr_main" version="3" view="VG_CCR_Main">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vg_site</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>768190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_control_process</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>f68190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>level_of_change</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>7a8190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_change</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>fa8190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>7e8190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>fe8190c64f8123005c8f4ebf9310c7dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>728190c64f8123005c8f4ebf9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>executive_summary</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>f28190c64f8123005c8f4ebf9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>768190c64f8123005c8f4ebf9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>functional_group</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>f68190c64f8123005c8f4ebf9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entity</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:27</sys_created_on>
+            <sys_id>7a8190c64f8123005c8f4ebf9310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>VG: Change Control - INITIATE</caption>
+            <header>false</header>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2eadcc064f8123005c8f4ebf9310c7e6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>VG: Change Control - INITIATE</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+            <sys_update_name>sys_ui_section_2eadcc064f8123005c8f4ebf9310c7e6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:55:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="VG CCR Main" name="VG_CCR_Main">a2ad0c064f8123005c8f4ebf9310c794</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

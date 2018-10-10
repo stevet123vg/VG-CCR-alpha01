@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ccr_owner_assessment" label="CCR owner assessment" language="en" table="x_224032_vg_ccr_al_vg_ccr_main">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ccr_owner_assessment</element>
+            <help/>
+            <hint/>
+            <label>CCR owner assessment</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <plural>CCR owner assessments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:03:19</sys_created_on>
+            <sys_id>0d8150c64f8123005c8f4ebf9310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CCR owner assessment</sys_name>
+            <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+            <sys_update_name>sys_documentation_x_224032_vg_ccr_al_vg_ccr_main_ccr_owner_assessment_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:03:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

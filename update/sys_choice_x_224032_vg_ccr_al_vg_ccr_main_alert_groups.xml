@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="alert_groups" table="x_224032_vg_ccr_al_vg_ccr_main" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Engineering</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dff2100a4f8123005c8f4ebf9310c765</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>engineering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dff2100a4f8123005c8f4ebf9310c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Technology</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff2100a4f8123005c8f4ebf9310c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laboratory</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bf2100a4f8123005c8f4ebf9310c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>laboratory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quality Assurance</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97f2100a4f8123005c8f4ebf9310c76d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>QA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quality Control</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3f2100a4f8123005c8f4ebf9310c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>QC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>alert_groups</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Validation</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13f2100a4f8123005c8f4ebf9310c771</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+            <value>validation</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>alert_groups</element>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_id>9bf2100a4f8123005c8f4ebf9310c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>alert_groups</sys_name>
+            <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+            <sys_update_name>sys_choice_x_224032_vg_ccr_al_vg_ccr_main_alert_groups</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

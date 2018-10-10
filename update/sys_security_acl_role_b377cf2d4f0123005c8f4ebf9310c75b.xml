@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-09 18:01:26</sys_created_on>
+        <sys_id>b377cf2d4f0123005c8f4ebf9310c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_224032_vg_ccr_al_vg_ccr_main.x_224032_vg_ccr_al.user</sys_name>
+        <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+        <sys_security_acl display_value="x_224032_vg_ccr_al_vg_ccr_main">7b77cf2d4f0123005c8f4ebf9310c758</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b377cf2d4f0123005c8f4ebf9310c75b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-09 18:01:26</sys_updated_on>
+        <sys_user_role display_value="x_224032_vg_ccr_al.user" name="x_224032_vg_ccr_al.user">c3470f2d4f0123005c8f4ebf9310c7fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

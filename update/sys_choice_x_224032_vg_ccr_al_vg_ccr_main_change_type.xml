@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="change_type" table="x_224032_vg_ccr_al_vg_ccr_main" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change management request form</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b56f8c464f8123005c8f4ebf9310c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:54:05</sys_updated_on>
+            <value>change management request form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Equipment form</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b56f8c464f8123005c8f4ebf9310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:54:05</sys_updated_on>
+            <value>equipment form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lab form</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f16f8c464f8123005c8f4ebf9310c75b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:54:05</sys_updated_on>
+            <value>lab form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>change_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Standard form</label>
+            <language>en</language>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>316f8c464f8123005c8f4ebf9310c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:54:05</sys_updated_on>
+            <value>standard form</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>change_type</element>
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:54:05</sys_created_on>
+            <sys_id>716f8c464f8123005c8f4ebf9310c759</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_type</sys_name>
+            <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+            <sys_update_name>sys_choice_x_224032_vg_ccr_al_vg_ccr_main_change_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:54:05</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

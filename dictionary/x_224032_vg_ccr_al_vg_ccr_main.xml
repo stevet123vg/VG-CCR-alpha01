@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="VG-CCR-Main" max_length="40" name="x_224032_vg_ccr_al_vg_ccr_main" type="collection">
+        <element choice="1" default="validation" label="Alert groups" mandatory="true" max_length="40" name="alert_groups" type="choice">
+            <choice>
+                <element label="Engineering" sequence="0" value="engineering"/>
+                <element label="Facilities" sequence="1" value="facilities"/>
+                <element label="Information Technology" sequence="2" value="IT"/>
+                <element label="Laboratory" sequence="3" value="laboratory"/>
+                <element label="Quality Assurance" sequence="4" value="QA"/>
+                <element label="Quality Control" sequence="5" value="QC"/>
+                <element label="Validation" sequence="6" value="validation"/>
+            </choice>
+        </element>
+        <element choice="1" default="assign to me" label="CCR owner assessment" mandatory="true" max_length="40" name="ccr_owner_assessment" type="choice">
+            <choice>
+                <element label="Group" sequence="0" value="group"/>
+                <element label="User" sequence="1" value="user"/>
+                <element label="Assign to me" sequence="2" value="assign to me"/>
+            </choice>
+        </element>
+        <element choice="1" label="Change control process" mandatory="true" max_length="10" name="change_control_process" type="choice">
+            <choice>
+                <element label="Internal" sequence="0" value="internal"/>
+                <element label="External" sequence="1" value="external"/>
+            </choice>
+        </element>
+        <element choice="1" default="standard form" label="Change type (VG Form)" mandatory="true" max_length="80" name="change_type" type="choice">
+            <choice>
+                <element label="Change management request form" sequence="0" value="change management request form"/>
+                <element label="Equipment form" sequence="1" value="equipment form"/>
+                <element label="Lab form" sequence="2" value="lab form"/>
+                <element label="Standard form" sequence="3" value="standard form"/>
+            </choice>
+        </element>
+        <element label="Defined delivery schedule" max_length="40" name="defined_delivery_schedule" type="string"/>
+        <element label="Define document deliverables" max_length="40" name="define_document_deliverables" type="string"/>
+        <element choice="1" label="Entity" max_length="80" name="entity" type="choice">
+            <choice/>
+        </element>
+        <element label="Estimated closure date" max_length="40" name="estimated_closure_date" type="glide_date"/>
+        <element label="Executive summary" max_length="1000" name="executive_summary" type="string"/>
+        <element choice="1" label="Functional Group" mandatory="true" max_length="40" name="functional_group" type="choice">
+            <choice>
+                <element label="Engineering" sequence="0" value="engineering"/>
+                <element label="Facilities" sequence="1" value="facilities"/>
+                <element label="Information Technology" sequence="2" value="IT"/>
+                <element label="Laboratory" sequence="3" value="laboratory"/>
+                <element label="Quality Assurance" sequence="4" value="QA"/>
+                <element label="Quality Control" sequence="5" value="QC"/>
+                <element label="Validation" sequence="6" value="validation"/>
+            </choice>
+        </element>
+        <element label="Justification" max_length="1000" name="justification" type="string"/>
+        <element choice="1" default="system" label="Level of change" mandatory="true" max_length="25" name="level_of_change" type="choice">
+            <choice>
+                <element label="System" sequence="0" value="system"/>
+                <element label="Functional / requirements" sequence="1" value="functional"/>
+            </choice>
+        </element>
+        <element label="New Entity" max_length="40" name="new_entity" type="string"/>
+        <element choice="1" label="Severity" mandatory="true" max_length="40" name="severity" type="choice">
+            <choice>
+                <element label="High" sequence="0" value="high"/>
+                <element label="Low" sequence="1" value="low"/>
+                <element label="Medium" sequence="2" value="medium"/>
+            </choice>
+        </element>
+        <element choice="1" default="new" label="Type of change" mandatory="true" max_length="10" name="type_of_change" type="choice">
+            <choice>
+                <element label="New" sequence="0" value="new"/>
+                <element label="Revision" sequence="1" value="revision"/>
+                <element label="Addendum" sequence="2" value="addendum"/>
+            </choice>
+        </element>
+        <element choice="1" default="san francisco" label="VG site" mandatory="true" max_length="40" name="vg_site" type="choice">
+            <choice>
+                <element label="Boston" sequence="0" value="boston"/>
+                <element label="London" sequence="1" value="london"/>
+                <element label="Munich" sequence="2" value="munich"/>
+                <element label="Mumbai" sequence="3" value="mumbai"/>
+                <element label="New York" sequence="4" value="new york"/>
+                <element label="San Francisco" sequence="5" value="san francisco"/>
+                <element label="Singapore" sequence="6" value="singapore"/>
+                <element label="Sydney" sequence="7" value="sydney"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6aadcc064f8123005c8f4ebf9310c7e7" sys_domain="global" table="x_224032_vg_ccr_al_vg_ccr_main" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2eadcc064f8123005c8f4ebf9310c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="SNOW: Main" display_value="SNOW: Main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">66adcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:46:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2aadcc064f8123005c8f4ebf9310c7ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="VG: Change Control - INITIATE" display_value="VG: Change Control - INITIATE" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">2eadcc064f8123005c8f4ebf9310c7e6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:46:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:04:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11e154c64f8123005c8f4ebf9310c74e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="VG: Additional Details" display_value="VG: Additional Details" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">51e154c64f8123005c8f4ebf9310c74b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:04:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bf2100a4f8123005c8f4ebf9310c732</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="VG: CCR Owner Assessmet" display_value="VG: CCR Owner Assessmet" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">8ff2dcc64f8123005c8f4ebf9310c729</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 18:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ff2100a4f8123005c8f4ebf9310c736</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="VG: Alert Groups" display_value="VG: Alert Groups" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">87f2dcc64f8123005c8f4ebf9310c72a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4eaf00864f8123005c8f4ebf9310c7c0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_224032_vg_ccr_al_vg_ccr_main" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">6aadcc064f8123005c8f4ebf9310c7e7</sys_ui_form>
+            <sys_ui_section caption="SNOW: Additional Details" display_value="SNOW: Additional Details" name="x_224032_vg_ccr_al_vg_ccr_main" sys_domain="global" view="a2ad0c064f8123005c8f4ebf9310c794">c6af00864f8123005c8f4ebf9310c7be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 18:09:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_224032_vg_ccr_al_vg_ccr_main</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-10 17:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aadcc064f8123005c8f4ebf9310c7e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_224032_vg_ccr_al_vg_ccr_main</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VG CCR alpha01" source="x_224032_vg_ccr_al">3247c32d4f0123005c8f4ebf9310c7e3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VG CCR alpha01">3247c32d4f0123005c8f4ebf9310c7e3</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6aadcc064f8123005c8f4ebf9310c7e7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-10 17:46:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="VG CCR Main" name="VG_CCR_Main">a2ad0c064f8123005c8f4ebf9310c794</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
